@@ -104,10 +104,10 @@ ul{
 }
 
 /* FOR COMPUTER */
-/* @media (min-width:1500px){
+ @media (min-width:1500px){
   .container {
     margin: 17.3rem auto 0;
-    width: 28rem;
+    
   }
 
   .avatar > img{
@@ -146,4 +146,4 @@ ul{
     font-size:36px;
   }
 }
- */
+
