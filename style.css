@@ -18,7 +18,7 @@ body{
 }
 
 main{
-  background: url(/assets/background.svg) no-repeat center/cover;
+  background: url(assets/background.svg) no-repeat center/cover;
   width: 100vw;
   min-height: 812px;
   height: 100vh;
@@ -96,7 +96,7 @@ ul{
 
 @media (min-width:768px) {
   main{
-    background: url(/assets/Desktop.svg) no-repeat center/cover;
+    background: url(assets/Desktop.svg) no-repeat center/cover;
   }
   .container {
     margin: 13.6rem auto 0;
