@@ -98,32 +98,31 @@ ul{
   main{
     background: url(assets/Desktop.svg) no-repeat center/cover;
   }
-/*   .container {
+   .container {
     margin: 13.6rem auto 0;
   }
 }
 
 /* FOR COMPUTER */
- @media (min-width:1500px){
+@media (min-width:1500px){
   .container {
-    margin: 17.3rem auto 0;
-    width:28rem;
-    
+    margin: 13.2rem auto 0;
+    width: 20rem;
   }
 
   .avatar > img{
-    width: 18.3rem;
-    height: 19.5rem;
-    margin: -1.6rem -15rem 0;
+    width: 15.3rem;
+    height: 16.5rem;
+    margin: -1rem -10rem 0;
   }
   .avatar span{
     right: 5rem;
-    top: -3.3rem;
+    top: -2.7rem;
   }
 
-  img{
-    width: 6rem;
-
+  ul img{
+    width: 5rem;
+    margin-top: -2rem;
   }
   
   span img {
@@ -131,7 +130,7 @@ ul{
   }
 
   img.icone{
-    width: 2rem;
+    width: 1.5rem;
     margin-top: 0;
   }
 
@@ -147,4 +146,3 @@ ul{
     font-size:36px;
   }
 }
- */
