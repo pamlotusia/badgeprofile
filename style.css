@@ -52,7 +52,7 @@ main{
   height: 11.5rem;
   object-fit: cover;
   
-  margin: auto auto;
+   margin: -0.4rem auto 0;
 
   clip-path: polygon(50% 0, 100% 24%, 100% 73%, 50% 100%, 0 73%, 0 24%);
 }
